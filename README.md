@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">I am Abdul Kader. I am an industrious, self-motivated Software Engineer with excellent knowledge. My expertise includes PHP, Laravel, JavaScript, React.js, MySQL. Currently, I'm looking for a job as a Full Stack Developer. At Present, I'm learning Vue.js. I’m interested to work in future on BlockChain.</h3>
+<h3 align="center">I am Abdul Kader. I am an industrious, self-motivated Software Engineer with excellent knowledge. My expertise includes PHP, Laravel, JavaScript, Vue Js, React.js, MySQL. Currently, I'm looking for a job as a Full Stack Developer.I’m interested to work in future on BlockChain.</h3>
 
-- 👨‍💻 All of my projects are available at [https://kaderabdul.netlify.app/](https://kaderabdul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kaderabdul79.github.io/portfolio/](https://kaderabdul79.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
